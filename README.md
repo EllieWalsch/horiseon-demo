@@ -6,12 +6,10 @@ This webpage was built to advertise and highlight the benefits of Horiseon Socia
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Clicking the headings in the navigation bar will direct users to the main sections on the webpage. Users may also view semantic HTML elements and alternative image descriptions by opening developer tools (right click -> "Inspect"). 
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Image of desktop view of Horiseon webpage header and navigation bar](assets/images/screenshot-demo.png)
     ```
 
 ## Credits
